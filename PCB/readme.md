@@ -1,2 +1,0 @@
-## Midi USB-C controller
-
